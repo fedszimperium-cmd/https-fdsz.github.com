@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+  <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>FEDSZ Imperium</title>
+  <title>FDSZ Imperium</title>
   <style>
     body {
       margin: 0;
@@ -80,6 +80,11 @@
     <p>O Império FDSZ nasce para representar força, visão e domínio. Minimalista, direto e marcante — a identidade que impõe respeito.</p>
     <button class="btn">Entrar no Império</button>
   </div>
+
+  <footer>© 2025 FDSZ Imperium — Todos os direitos reservados</footer>
+</body>
+</html>
+
 
   <footer>© 2025 FDSZ Imperium — Todos os direitos reservados</footer>
 </body>
